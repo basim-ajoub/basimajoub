@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Model Website",
+        "url":"www.modelwebsite.com",
+        "imgnumber":1,
+        "type":"Website",
+        "headerimg":"project-1-1.png"
+    },
+    {
+        "id":2,
+        "name":"Hotel Booking Website",
+        "url":"www.Ajoubwebsite.com",
+        "imgnumber":6,
+        "type":"Booking Website",
+        "headerimg":"project-2-1.png"
+    },
+    {
+        "id":3,
+        "name":"News Website",
+        "url":"www.Newswebsite.com",
+        "imgnumber":5,
+        "type":"News Website",
+        "headerimg":"project-3-1.png"
+    },
+    {
+        "id":4,
+        "name":"Hotel Managment System",
+        "url":"www.AjoubHotelsystemwebsite.com",
+        "imgnumber":10,
+        "type":"Managment System Website",
+        "headerimg":"project-4-1.png"
+    },
+    {
+        "id":5,
+        "name":"Arch Design Website",
+        "url":"www.Ajoubbauwebsite.com",
+        "imgnumber":2,
+        "type":"Design Website",
+        "headerimg":"project-5-1.png"
+    },
+    {
+        "id":6,
+        "name":"Store Managment System",
+        "url":"www.Storesysytemwebsite.com",
+        "imgnumber":8,
+        "type":"Managment System Website",
+        "headerimg":"project-6-1.png"
+    }
+]
