@@ -4,12 +4,9 @@
       <h1>Resume</h1>
       <h3>My CV</h3>
     </div>
-    <div class="resume-container">
-<<<<<<< HEAD
+    <div class="resume-container">=
 <iframe src="https://drive.google.com/file/d/1_uKON2fvg0lrSAX5_G5obVNiQb-uLE2u/preview" width="640" height="470" allow="autoplay"></iframe>    </div>
-=======
-<iframe src="https://drive.google.com/file/d/1QbtEZN2Fz_LLcptzEqMWyr8rxYSnYUT8/preview" width="640" height="470" allow="autoplay"></iframe>    </div>
->>>>>>> 429a8294a2d71270560967dfd269f9fb3c2fc305
+
     </div>
 </template>
 <script>
@@ -19,10 +16,9 @@ export default {
 </script>
 <style lang="scss">
 .resume-view{
-<<<<<<< HEAD
+
   height:640px;
-=======
->>>>>>> 429a8294a2d71270560967dfd269f9fb3c2fc305
+
     .title {
     h1 {
       left:38%;
